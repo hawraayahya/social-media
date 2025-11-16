@@ -1,0 +1,26 @@
+#socialmedia {
+    text-align: center;
+    padding: 40px 0;
+}
+
+#socialmedia h2 {
+    color: #806b63;
+    margin-button: 20px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.social-icon {
+    width: 110px;  
+    height: auto;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.social-icon:hover {
+    transform: scale(1.12);
+}
