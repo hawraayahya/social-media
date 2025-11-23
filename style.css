@@ -21,13 +21,13 @@
 
 .social-box {
     background-color: #e8c4c6; 
-    width: 160px;
-    padding: 20px;
+    width: 200px;
+    padding: 25px 20px;
     border-radius: 15px;
     text-decoration: none;
     color: #806b63;
     font-weight: bold;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -40,10 +40,10 @@
 }
 
 .social-icon {
-    width: 20px;
-    height: 20px;
+    width: 35px;
+    height: 35px;
     object-fit: contain;
-    margin-bottom: 12px;
+    margin-bottom: 15px;
 }
 
 
