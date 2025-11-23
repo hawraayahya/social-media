@@ -40,10 +40,12 @@
 }
 
 .social-icon {
-    width: 35px;
-    height: 35px;
+    width: 80px;
+    height: 80px;
     object-fit: contain;
     margin-bottom: 15px;
+    display: black;
+    object-fit: cover;
 }
 
 
