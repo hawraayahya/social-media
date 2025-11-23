@@ -21,8 +21,8 @@
 
 .social-box {
     background-color: #e8c4c6; 
-    width: 200px;
-    padding: 25px 20px;
+    width: 260px;
+    padding: 35px 25px;
     border-radius: 15px;
     text-decoration: none;
     color: #806b63;
@@ -43,9 +43,9 @@
     width: 140px;
     height: 140px;
     object-fit: contain;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     display: black;
-    object-fit: cover;
+
 }
 
 
