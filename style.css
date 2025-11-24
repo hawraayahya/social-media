@@ -20,8 +20,8 @@
 
 .social-box {
     background-color: #e8c4c6;
-    width: 200px;
-    padding: 30px;
+    width: 150px;
+    padding: 20px;
     border-radius: 15px;
     text-decoration: none;
     color: #806b63;
@@ -40,7 +40,7 @@
 }
 
 .social-icon {
-    width: 40px;
+    width: 80px;
     height: 40px;
     object-fit: contain;
     margin-bottom: 12px;
